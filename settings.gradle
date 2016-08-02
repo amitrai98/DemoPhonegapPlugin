@@ -1,0 +1,4 @@
+include ':videocalling'
+// GENERATED FILE - DO NOT EDIT
+include ":"
+include ":CordovaLib"
